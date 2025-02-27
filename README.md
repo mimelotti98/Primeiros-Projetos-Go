@@ -5,11 +5,12 @@
 
 ## 💻 Principais conceitos
 
-[x]  
-[x] 
-[x]  
-[x] 
-[x] 
+[x] Números (Int e Float)
+[x] Strings 
+[x] Boolean 
+[x] Operadores 
+[x] Conversão de Tipos 
+[x] Diferença entre Print e pacote Fmt
 
 ### Próximos passos
 []  
