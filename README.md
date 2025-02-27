@@ -20,9 +20,9 @@
 
 
 ### Próximos passos
-[]  
+[]  Mini Projeto B1
 
-[] 
+[] Inserir dados via teclado
 
 []  
 
