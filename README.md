@@ -14,7 +14,7 @@
 
 [x] Conversão e identificação de Tipos 
 
-[x] Diferença entre Print
+[x] Diferença entre Println e Printf
 
 [x] Pacote Fmt
 
