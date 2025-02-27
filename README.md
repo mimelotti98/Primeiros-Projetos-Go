@@ -12,9 +12,11 @@
 
 [x] Operadores 
 
-[x] Conversão de Tipos 
+[x] Conversão e identificação de Tipos 
 
-[x] Diferença entre Print e pacote Fmt
+[x] Diferença entre Print
+
+[x] Pacote Fmt
 
 
 ### Próximos passos
