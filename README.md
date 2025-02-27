@@ -4,19 +4,28 @@
 
 
 ## 💻 Principais conceitos
+[x] Números (Int e Float) 
 
-[x] Números (Int e Float)
 [x] Strings 
+
 [x] Boolean 
+
 [x] Operadores 
+
 [x] Conversão de Tipos 
+
 [x] Diferença entre Print e pacote Fmt
+
 
 ### Próximos passos
 []  
+
 [] 
+
 []  
+
 [] 
+
 [] 
 
 
