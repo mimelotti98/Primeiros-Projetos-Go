@@ -18,17 +18,18 @@
 
 [x] Pacote Fmt
 
+[x] Mini Projeto B1
 
 ### Próximos passos
 []  Mini Projeto B1
 
 [] Inserir dados via teclado
 
-[]  
+[]  Arrays, Fatias e Mapas  
 
-[] 
+[] Interfaces 
 
-[] 
+[]  Mini Projeto B2
 
 
 Obrigada por ler até aqui!  
