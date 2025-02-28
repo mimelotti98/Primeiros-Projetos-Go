@@ -20,8 +20,11 @@
 
 [x] Mini Projeto B1
 
+[x]  Estruturas (For, If e Switch) 
+
 ### Próximos passos
-[]  Mini Projeto B1
+
+[] Loop
 
 [] Inserir dados via teclado
 
