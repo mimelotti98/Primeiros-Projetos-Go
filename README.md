@@ -22,13 +22,14 @@
 
 [x]  Estruturas (For, If e Switch) 
 
+[x] Loop
+
+[x]  Arrays, Fatias e Mapas  
+
 ### Próximos passos
 
-[] Loop
 
 [] Inserir dados via teclado
-
-[]  Arrays, Fatias e Mapas  
 
 [] Interfaces 
 
