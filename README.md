@@ -24,16 +24,20 @@
 
 [x] Loop
 
-[x]  Arrays, Fatias e Mapas  
+[x]  Arrays, Fatias e Mapas 
+
+[X] Interfaces 
+
+[X]  Mini Projeto B2
 
 ### Próximos passos
 
 
 [] Inserir dados via teclado
 
-[] Interfaces 
+[] Funções
 
-[]  Mini Projeto B2
+[] 
 
 
 Obrigada por ler até aqui!  
