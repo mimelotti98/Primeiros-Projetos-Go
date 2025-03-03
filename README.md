@@ -37,7 +37,9 @@
 
 [] Funções
 
-[] 
+[] Closure
+
+[] Recursão 
 
 
 Obrigada por ler até aqui!  
