@@ -30,16 +30,21 @@
 
 [X]  Mini Projeto B2
 
+[X] Funções
+
+[X] Closure
+
+[X] Recursão 
+
 ### Próximos passos
 
 
-[] Inserir dados via teclado
+[] Ponteiros 
 
-[] Funções
+[]
 
-[] Closure
+[] 
 
-[] Recursão 
-
+[] 
 
 Obrigada por ler até aqui!  
