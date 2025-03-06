@@ -36,14 +36,16 @@
 
 [X] Recursão 
 
+[X] Ponteiros 
+
 ### Próximos passos
 
 
-[] Ponteiros 
+[] Servidores
 
-[]
+[] API Rest
 
-[] 
+[] Testes 
 
 [] 
 
