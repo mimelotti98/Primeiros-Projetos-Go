@@ -41,7 +41,7 @@
 ### Próximos passos
 
 
-[] Servidores
+[] Servidores Estáticos
 
 [] API Rest
 
